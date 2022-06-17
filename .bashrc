@@ -75,7 +75,7 @@ _open_files_for_editing() {
     echo "$FUNCNAME: package 'xdg-utils' or 'exo' is required." >&2
 }
 
-#------------------------------------------------------------
+#-----------------------------------------------------------
 
 ## Aliases for the functions above.
 ## Uncomment an alias if you want to use it.
